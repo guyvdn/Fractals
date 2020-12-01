@@ -1,2 +1,2 @@
 # Fractals
-Hoby project to draw fractals on the screen
+Hobby project to draw fractals on the screen
